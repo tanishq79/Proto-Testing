@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"27-05680915-033112";"";
+"REFERENCE";"1334401";"";
+"TraceParts.PartTitle";"FIL-WM-1S-1N-3A-230AC";"";
+"TraceParts.InstanceId";"27-05680915-03311236FDR7KA1GQNQOJK3QTZMLD2H";"";
+"SUPPLIER";"PHOENIX CONTACT";"";
+"DESIGN";"EMC filter";"";
+"ATT_0173_1_02_AAO663_005";"4063151634001";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-15052019-051838";"";
+"REFERENCE";"2M02";"";
+"TraceParts.PartTitle";"Compact Vane Motors 2M02";"";
+"TraceParts.InstanceId";"90-15052019-05183878P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"GLOBE Benelux BV";"";
+"DESIGN";"Compact Vane Motors max. power 0,27 kW / 0.36 H.P.";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";

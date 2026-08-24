@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"80-09122021-082282";"";
+"REFERENCE";"EBDB3-3-3";"";
+"TraceParts.PartTitle";"Axle Pin Bolt EBDB/EBDS";"";
+"TraceParts.InstanceId";"80-09122021-0822827WKXE0DD7FNWLBLM8FEJ3PZSQ";"";
+"SUPPLIER";"ZKH Industrial Supply Co., Ltd.";"";
+"DESIGN";"Axle Pin Bolt EBDB3-3-3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

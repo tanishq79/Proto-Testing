@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"Colorofthecovercap";"DSG - Black-gray, RAL 7021, matte finish";"";
+"REFERENCE";"633-40-M5-16-DSG";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"JW Winco";"";
+"Weight";"0.022 lbs";"";
+"Material";"PA - Plastic";"";
+"TraceParts.PartNumber";"90-30092020-082246";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Technopolymer Plastic Wing Screws, with Steel Threaded Stud, Ergostyle®";"";
+"TraceParts.InstanceId";"90-30092020-082246AOYPHNKWMVUK6F10J92OPEKDV";"";
+"RoHs";"Yes";"";
+"TraceParts.PartTitle";"EN 633 Technopolymer Plastic Wing Screws, with Steel Threaded Stud, Ergostyle®";"";
+"ECLASS";"23110601";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Zolltarif";"84879090";"";

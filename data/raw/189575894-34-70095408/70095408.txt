@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-30112023-009044";"";
+"REFERENCE";"C0402C159C5GACTU";"";
+"SUPPLIER_PART_NUMBER";"70095408";"";
+"rs_stock_number";"70095408";"";
+"TraceParts.PartTitle";"0402 C0G ceramic capacitor, 50V 1.5pF";"";
+"SUPPLIER_NAME";"RS Americas";"";
+"SUPPLIER";"KEMET";"";
+"DESIGN";"0402 C0G ceramic capacitor, 50V 1.5pF";"";
+"TraceParts.InstanceId";"90-30112023-00904436FDR7KA1GQNQOJK3QTZMLD2H";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

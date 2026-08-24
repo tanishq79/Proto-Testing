@@ -1,0 +1,1861 @@
+query_path,query_part_id,query_view,correct_rank,top_1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576740-34-40_t_shafts_adp416c/40_t_shafts_adp416c_640x480_back.png,189576740-34-40_t_shafts_adp416c,"<bound method Series.view of part_id                           189576740-34-40_t_shafts_adp416c
+folder_name                       189576740-34-40_t_shafts_adp416c
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  ADP416C
+part_number                                     10-20112003-070817
+supplier                                                      None
+material                                                      None
+part_title                       40 mm through shafts, NAAMS ADP C
+design                                40 mm through shafts ADP416C
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 1, dtype: object>",12,189576583-34-02462141
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576740-34-40_t_shafts_adp416c/40_t_shafts_adp416c_640x480_iso.png,189576740-34-40_t_shafts_adp416c,"<bound method Series.view of part_id                           189576740-34-40_t_shafts_adp416c
+folder_name                       189576740-34-40_t_shafts_adp416c
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  ADP416C
+part_number                                     10-20112003-070817
+supplier                                                      None
+material                                                      None
+part_title                       40 mm through shafts, NAAMS ADP C
+design                                40 mm through shafts ADP416C
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 3, dtype: object>",13,189576026-114-70258696
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576740-34-40_t_shafts_adp416c/40_t_shafts_adp416c_640x480_front.png,189576740-34-40_t_shafts_adp416c,"<bound method Series.view of part_id                           189576740-34-40_t_shafts_adp416c
+folder_name                       189576740-34-40_t_shafts_adp416c
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  ADP416C
+part_number                                     10-20112003-070817
+supplier                                                      None
+material                                                      None
+part_title                       40 mm through shafts, NAAMS ADP C
+design                                40 mm through shafts ADP416C
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 6, dtype: object>",15,189576135-114-als40a222db100
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576446-34-16-240-46-6-16/16-240-46-6-16_640x480_bottom.png,189576446-34-16-240-46-6-16,"<bound method Series.view of part_id                                189576446-34-16-240-46-6-16
+folder_name                            189576446-34-16-240-46-6-16
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           16-240-46-6-16
+part_number                                     90-02012026-074405
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title                                 16-24 VIS PAPILLON INOX
+design                    16-24 VIS PAPILLON INOX - 16-240-46-6-16
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 7, dtype: object>",2,FYTB - T-Shaped Bolts
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576359-34-ebcob3-6/ebcob3-6_640x480_bottom.png,189576359-34-ebcob3-6,"<bound method Series.view of part_id                                      189576359-34-ebcob3-6
+folder_name                                  189576359-34-ebcob3-6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 EBCOB3-6
+part_number                                     80-09122021-081237
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                              Butterfly Bolt EBCOB/EBCBS
+design                                     Butterfly Bolt EBCOB3-6
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 14, dtype: object>",39,189576353-34-ebdb3-3-3
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576359-34-ebcob3-6/ebcob3-6_640x480_top.png,189576359-34-ebcob3-6,"<bound method Series.view of part_id                                      189576359-34-ebcob3-6
+folder_name                                  189576359-34-ebcob3-6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 EBCOB3-6
+part_number                                     80-09122021-081237
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                              Butterfly Bolt EBCOB/EBCBS
+design                                     Butterfly Bolt EBCOB3-6
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 20, dtype: object>",15,189576446-34-16-240-46-6-16
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576172-34-ylbt8x20-c1/ylbt8x20-c1_640x480_bottom.png,189576172-34-ylbt8x20-c1,"<bound method Series.view of part_id                                   189576172-34-ylbt8x20-c1
+folder_name                               189576172-34-ylbt8x20-c1
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              YLBT8X20-C1
+part_number                                     90-20102023-014501
+supplier                       YA-VA Intelligent Systems Co., Ltd.
+material                                                      None
+part_title                                                  T-bolt
+design                                          T-bolt YLBT8X20-C1
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 25, dtype: object>",5,189576270-34-bolt_din_261-m8x30
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576172-34-ylbt8x20-c1/ylbt8x20-c1_640x480_top.png,189576172-34-ylbt8x20-c1,"<bound method Series.view of part_id                                   189576172-34-ylbt8x20-c1
+folder_name                               189576172-34-ylbt8x20-c1
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              YLBT8X20-C1
+part_number                                     90-20102023-014501
+supplier                       YA-VA Intelligent Systems Co., Ltd.
+material                                                      None
+part_title                                                  T-bolt
+design                                          T-bolt YLBT8X20-C1
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 26, dtype: object>",13,189576183-34-ylat8x17-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576417-34-2453652/2453652_640x480_back.png,189576417-34-2453652,"<bound method Series.view of part_id                                       189576417-34-2453652
+folder_name                                   189576417-34-2453652
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453652
+part_number                                     90-23112023-049396
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 2 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 2 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 29, dtype: object>",14,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576417-34-2453652/2453652_640x480_bottom.png,189576417-34-2453652,"<bound method Series.view of part_id                                       189576417-34-2453652
+folder_name                                   189576417-34-2453652
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453652
+part_number                                     90-23112023-049396
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 2 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 2 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 30, dtype: object>",2,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576417-34-2453652/2453652_640x480_iso.png,189576417-34-2453652,"<bound method Series.view of part_id                                       189576417-34-2453652
+folder_name                                   189576417-34-2453652
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453652
+part_number                                     90-23112023-049396
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 2 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 2 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 31, dtype: object>",3,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576417-34-2453652/2453652_640x480_front.png,189576417-34-2453652,"<bound method Series.view of part_id                                       189576417-34-2453652
+folder_name                                   189576417-34-2453652
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453652
+part_number                                     90-23112023-049396
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 2 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 2 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 33, dtype: object>",12,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576417-34-2453652/2453652_640x480_top.png,189576417-34-2453652,"<bound method Series.view of part_id                                       189576417-34-2453652
+folder_name                                   189576417-34-2453652
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453652
+part_number                                     90-23112023-049396
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 2 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 2 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 34, dtype: object>",2,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576395-34-2453650/2453650_640x480_top.png,189576395-34-2453650,"<bound method Series.view of part_id                                       189576395-34-2453650
+folder_name                                   189576395-34-2453650
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453650
+part_number                                     90-23112023-049505
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 1 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 1 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 35, dtype: object>",2,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576395-34-2453650/2453650_640x480_iso.png,189576395-34-2453650,"<bound method Series.view of part_id                                       189576395-34-2453650
+folder_name                                   189576395-34-2453650
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453650
+part_number                                     90-23112023-049505
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 1 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 1 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 36, dtype: object>",6,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576395-34-2453650/2453650_640x480_front.png,189576395-34-2453650,"<bound method Series.view of part_id                                       189576395-34-2453650
+folder_name                                   189576395-34-2453650
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453650
+part_number                                     90-23112023-049505
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 1 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 1 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 37, dtype: object>",13,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576395-34-2453650/2453650_640x480_bottom.png,189576395-34-2453650,"<bound method Series.view of part_id                                       189576395-34-2453650
+folder_name                                   189576395-34-2453650
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453650
+part_number                                     90-23112023-049505
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 1 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 1 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 40, dtype: object>",2,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576395-34-2453650/2453650_640x480_back.png,189576395-34-2453650,"<bound method Series.view of part_id                                       189576395-34-2453650
+folder_name                                   189576395-34-2453650
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2453650
+part_number                                     90-23112023-049505
+supplier                                                    RS PRO
+material                                                      None
+part_title                         1/2 X 1 1/2 LAG BOLT GALVANIZED
+design                             1/2 X 1 1/2 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 41, dtype: object>",11,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576291-34-100016x16/100016x16_640x480_back.png,189576291-34-100016x16,"<bound method Series.view of part_id                                     189576291-34-100016x16
+folder_name                                 189576291-34-100016x16
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                100016X16
+part_number                                     90-29122025-065954
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title                   10001 BOULON À TÊTE HEXAGONALE VIS TH
+design           10001 BOULON À TÊTE HEXAGONALE VIS TH - 100016X16
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 42, dtype: object>",4,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576291-34-100016x16/100016x16_640x480_right.png,189576291-34-100016x16,"<bound method Series.view of part_id                                     189576291-34-100016x16
+folder_name                                 189576291-34-100016x16
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                100016X16
+part_number                                     90-29122025-065954
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title                   10001 BOULON À TÊTE HEXAGONALE VIS TH
+design           10001 BOULON À TÊTE HEXAGONALE VIS TH - 100016X16
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 44, dtype: object>",13,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576291-34-100016x16/100016x16_640x480_iso.png,189576291-34-100016x16,"<bound method Series.view of part_id                                     189576291-34-100016x16
+folder_name                                 189576291-34-100016x16
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                100016X16
+part_number                                     90-29122025-065954
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title                   10001 BOULON À TÊTE HEXAGONALE VIS TH
+design           10001 BOULON À TÊTE HEXAGONALE VIS TH - 100016X16
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 45, dtype: object>",6,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576291-34-100016x16/100016x16_640x480_left.png,189576291-34-100016x16,"<bound method Series.view of part_id                                     189576291-34-100016x16
+folder_name                                 189576291-34-100016x16
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                100016X16
+part_number                                     90-29122025-065954
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title                   10001 BOULON À TÊTE HEXAGONALE VIS TH
+design           10001 BOULON À TÊTE HEXAGONALE VIS TH - 100016X16
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 46, dtype: object>",10,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576276-34-jb_zq_4321-2006_14/jb_zq_4321-2006_14_640x480_bottom.png,189576276-34-jb_zq_4321-2006_14,"<bound method Series.view of part_id                            189576276-34-jb_zq_4321-2006_14
+folder_name                        189576276-34-jb_zq_4321-2006_14
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                       JB/ZQ 4321-2006 14
+part_number                                     50-04032014-073423
+supplier                                                      None
+material                                                      None
+part_title                               U bolts - JB/ZQ 4321-2006
+design                                U bolts - JB/ZQ 4321-2006 14
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 54, dtype: object>",13,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576856-34-13c004004/13c004004_640x480_iso.png,189576856-34-13c004004,"<bound method Series.view of part_id                                     189576856-34-13c004004
+folder_name                                 189576856-34-13c004004
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                13C004004
+part_number                                     90-14072023-047142
+supplier                              Stafford Manufacturing Corp.
+material                                                      None
+part_title               316 SS Two-Piece Hex Bore Clamp Couplings
+design                   316 SS Two-Piece Hex Bore Clamp Couplings
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 57, dtype: object>",10,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576496-34-tec_6/tec_6_640x480_top.png,189576496-34-tec_6,"<bound method Series.view of part_id                                         189576496-34-tec_6
+folder_name                                     189576496-34-tec_6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  7909773
+part_number                                     90-04032025-043350
+supplier                                                      None
+material                                                      None
+part_title                         RUD TECDOS cobra fork head hook
+design                                                Haken VCGH 6
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 63, dtype: object>",28,189576355-114-bpf_24_01
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576496-34-tec_6/tec_6_640x480_bottom.png,189576496-34-tec_6,"<bound method Series.view of part_id                                         189576496-34-tec_6
+folder_name                                     189576496-34-tec_6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  7909773
+part_number                                     90-04032025-043350
+supplier                                                      None
+material                                                      None
+part_title                         RUD TECDOS cobra fork head hook
+design                                                Haken VCGH 6
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 67, dtype: object>",2,189576449-34-16-280-32-4-10
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576183-34-ylat8x17-c1/ylat8x17-c1_640x480_bottom.png,189576183-34-ylat8x17-c1,"<bound method Series.view of part_id                                   189576183-34-ylat8x17-c1
+folder_name                               189576183-34-ylat8x17-c1
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              YLAT8X17-C1
+part_number                                     90-20102023-019207
+supplier                       YA-VA Intelligent Systems Co., Ltd.
+material                                                      None
+part_title                                                T-bolt A
+design                                        T-bolt A YLAT8X17-C1
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 70, dtype: object>",2,189576270-34-bolt_din_261-m8x30
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576183-34-ylat8x17-c1/ylat8x17-c1_640x480_iso.png,189576183-34-ylat8x17-c1,"<bound method Series.view of part_id                                   189576183-34-ylat8x17-c1
+folder_name                               189576183-34-ylat8x17-c1
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              YLAT8X17-C1
+part_number                                     90-20102023-019207
+supplier                       YA-VA Intelligent Systems Co., Ltd.
+material                                                      None
+part_title                                                T-bolt A
+design                                        T-bolt A YLAT8X17-C1
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 72, dtype: object>",2,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576183-34-ylat8x17-c1/ylat8x17-c1_640x480_top.png,189576183-34-ylat8x17-c1,"<bound method Series.view of part_id                                   189576183-34-ylat8x17-c1
+folder_name                               189576183-34-ylat8x17-c1
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              YLAT8X17-C1
+part_number                                     90-20102023-019207
+supplier                       YA-VA Intelligent Systems Co., Ltd.
+material                                                      None
+part_title                                                T-bolt A
+design                                        T-bolt A YLAT8X17-C1
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 73, dtype: object>",3,189576172-34-ylbt8x20-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576715-34-gye12-krr-b/gye12-krr-b_640x480_iso.png,189576715-34-gye12-krr-b,"<bound method Series.view of part_id                                   189576715-34-gye12-krr-b
+folder_name                               189576715-34-gye12-krr-b
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              GYE12-KRR-B
+part_number                                     90-10072026-051311
+supplier                                           MICHAUD CHAILLY
+material                                                      None
+part_title       P6-F/G ROULEMENT À BILLES AUTO-ALIGNEUR AVEC V...
+design           P6-F/G ROULEMENT À BILLES AUTO-ALIGNEUR AVEC V...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 82, dtype: object>",7,189576583-34-02462141
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576516-34-64771001/64771001_640x480_iso.png,189576516-34-64771001,"<bound method Series.view of part_id                                      189576516-34-64771001
+folder_name                                  189576516-34-64771001
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 64771001
+part_number                                     90-12032024-044339
+supplier                                               MÄDLER GmbH
+material                                                      None
+part_title       Angular Contact Ball Bearings SKF ®, Single Ro...
+design           SKF angular contact ball bearing 7200 BEP, sin...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 88, dtype: object>",8,189576583-34-02462141
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576353-34-ebdb3-3-3/ebdb3-3-3_640x480_iso.png,189576353-34-ebdb3-3-3,"<bound method Series.view of part_id                                     189576353-34-ebdb3-3-3
+folder_name                                 189576353-34-ebdb3-3-3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                EBDB3-3-3
+part_number                                     80-09122021-082282
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                 Axle Pin Bolt EBDB/EBDS
+design                                     Axle Pin Bolt EBDB3-3-3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 92, dtype: object>",4,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576353-34-ebdb3-3-3/ebdb3-3-3_640x480_right.png,189576353-34-ebdb3-3-3,"<bound method Series.view of part_id                                     189576353-34-ebdb3-3-3
+folder_name                                 189576353-34-ebdb3-3-3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                EBDB3-3-3
+part_number                                     80-09122021-082282
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                 Axle Pin Bolt EBDB/EBDS
+design                                     Axle Pin Bolt EBDB3-3-3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 94, dtype: object>",14,189576359-34-ebcob3-6
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576353-34-ebdb3-3-3/ebdb3-3-3_640x480_left.png,189576353-34-ebdb3-3-3,"<bound method Series.view of part_id                                     189576353-34-ebdb3-3-3
+folder_name                                 189576353-34-ebdb3-3-3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                EBDB3-3-3
+part_number                                     80-09122021-082282
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                 Axle Pin Bolt EBDB/EBDS
+design                                     Axle Pin Bolt EBDB3-3-3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 97, dtype: object>",10,189576805-114-agb184
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576270-34-bolt_din_261-m8x30/bolt_din_261-m8x30_640x480_back.png,189576270-34-bolt_din_261-m8x30,"<bound method Series.view of part_id                            189576270-34-bolt_din_261-m8x30
+folder_name                        189576270-34-bolt_din_261-m8x30
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                    DIN 261 - d M8 x l 30
+part_number                                     10-11062001-202053
+supplier                                                      None
+material                                                      None
+part_title                                            T-head bolts
+design                               T-head bolt DIN 261 - M8 x 30
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 98, dtype: object>",17,189576172-34-ylbt8x20-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576270-34-bolt_din_261-m8x30/bolt_din_261-m8x30_640x480_top.png,189576270-34-bolt_din_261-m8x30,"<bound method Series.view of part_id                            189576270-34-bolt_din_261-m8x30
+folder_name                        189576270-34-bolt_din_261-m8x30
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                    DIN 261 - d M8 x l 30
+part_number                                     10-11062001-202053
+supplier                                                      None
+material                                                      None
+part_title                                            T-head bolts
+design                               T-head bolt DIN 261 - M8 x 30
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 99, dtype: object>",4,189576183-34-ylat8x17-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576270-34-bolt_din_261-m8x30/bolt_din_261-m8x30_640x480_front.png,189576270-34-bolt_din_261-m8x30,"<bound method Series.view of part_id                            189576270-34-bolt_din_261-m8x30
+folder_name                        189576270-34-bolt_din_261-m8x30
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                    DIN 261 - d M8 x l 30
+part_number                                     10-11062001-202053
+supplier                                                      None
+material                                                      None
+part_title                                            T-head bolts
+design                               T-head bolt DIN 261 - M8 x 30
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 101, dtype: object>",9,189576183-34-ylat8x17-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576270-34-bolt_din_261-m8x30/bolt_din_261-m8x30_640x480_bottom.png,189576270-34-bolt_din_261-m8x30,"<bound method Series.view of part_id                            189576270-34-bolt_din_261-m8x30
+folder_name                        189576270-34-bolt_din_261-m8x30
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                    DIN 261 - d M8 x l 30
+part_number                                     10-11062001-202053
+supplier                                                      None
+material                                                      None
+part_title                                            T-head bolts
+design                               T-head bolt DIN 261 - M8 x 30
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 102, dtype: object>",2,189576172-34-ylbt8x20-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576270-34-bolt_din_261-m8x30/bolt_din_261-m8x30_640x480_iso.png,189576270-34-bolt_din_261-m8x30,"<bound method Series.view of part_id                            189576270-34-bolt_din_261-m8x30
+folder_name                        189576270-34-bolt_din_261-m8x30
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                    DIN 261 - d M8 x l 30
+part_number                                     10-11062001-202053
+supplier                                                      None
+material                                                      None
+part_title                                            T-head bolts
+design                               T-head bolt DIN 261 - M8 x 30
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 104, dtype: object>",14,"DIN 787 Metric Size, Steel T-Slot Bolts"
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576545-34-1204/1204_640x480_iso.png,189576545-34-1204,"<bound method Series.view of part_id                                          189576545-34-1204
+folder_name                                      189576545-34-1204
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                     1204
+part_number                                     90-26102021-037938
+supplier                                                  ecmu csr
+material                                                      None
+part_title                                                    1200
+design           roulement à rotule sur billes, alésage cylindr...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 111, dtype: object>",8,189576516-34-64771001
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576725-34-ptue20/ptue20_640x480_iso.png,189576725-34-ptue20,"<bound method Series.view of part_id                                        189576725-34-ptue20
+folder_name                                    189576725-34-ptue20
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   PTUE20
+part_number                                     90-09072026-028207
+supplier                                           MICHAUD CHAILLY
+material                                                      None
+part_title       P7-13E COULISSEAU TENDEUR EN FONTE AVEC SERRAG...
+design           P7-13E COULISSEAU TENDEUR EN FONTE AVEC SERRAG...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 113, dtype: object>",6,189576400-114-mmq-40125hm
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576725-34-ptue20/ptue20_640x480_front.png,189576725-34-ptue20,"<bound method Series.view of part_id                                        189576725-34-ptue20
+folder_name                                    189576725-34-ptue20
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   PTUE20
+part_number                                     90-09072026-028207
+supplier                                           MICHAUD CHAILLY
+material                                                      None
+part_title       P7-13E COULISSEAU TENDEUR EN FONTE AVEC SERRAG...
+design           P7-13E COULISSEAU TENDEUR EN FONTE AVEC SERRAG...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 116, dtype: object>",3,189576454-34-633-40-m5-16-dsg
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576295-34-n6-30m6/n6-30m6_640x480_iso.png,189576295-34-n6-30m6,"<bound method Series.view of part_id                                       189576295-34-n6-30m6
+folder_name                                   189576295-34-n6-30m6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  N6-30M6
+part_number                                     27-05584701-945889
+supplier                                                  AMODULAR
+material                                                      None
+part_title                              6 Series-Screw cap N6-30M6
+design                                  6 Series-Screw cap N6-30M6
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 120, dtype: object>",4,189576054-114-ldeia1100ka0n00
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576369-34-ebtf3/ebtf3_640x480_left.png,189576369-34-ebtf3,"<bound method Series.view of part_id                                         189576369-34-ebtf3
+folder_name                                     189576369-34-ebtf3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                    EBTF3
+part_number                                     80-09122021-080965
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                            Cap Nut EBTF
+design                                               Cap Nut EBTF3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 127, dtype: object>",6,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576369-34-ebtf3/ebtf3_640x480_iso.png,189576369-34-ebtf3,"<bound method Series.view of part_id                                         189576369-34-ebtf3
+folder_name                                     189576369-34-ebtf3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                    EBTF3
+part_number                                     80-09122021-080965
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                            Cap Nut EBTF
+design                                               Cap Nut EBTF3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 128, dtype: object>",15,189576725-34-ptue20
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576369-34-ebtf3/ebtf3_640x480_right.png,189576369-34-ebtf3,"<bound method Series.view of part_id                                         189576369-34-ebtf3
+folder_name                                     189576369-34-ebtf3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                    EBTF3
+part_number                                     80-09122021-080965
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                            Cap Nut EBTF
+design                                               Cap Nut EBTF3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 130, dtype: object>",13,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576350-34-ebnld3/ebnld3_640x480_iso.png,189576350-34-ebnld3,"<bound method Series.view of part_id                                        189576350-34-ebnld3
+folder_name                                    189576350-34-ebnld3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   EBNLD3
+part_number                                     80-09122021-082339
+supplier                           ZKH Industrial Supply Co., Ltd.
+material                                                      None
+part_title                                Anti Loosen Washer EBNLD
+design                                   Anti Loosen Washer EBNLD3
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 137, dtype: object>",9,189576516-34-64771001
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/FYTB - T-Shaped Bolts/bolt_fytb8_640x480_back.png,FYTB - T-Shaped Bolts,"<bound method Series.view of part_id                                      FYTB - T-Shaped Bolts
+folder_name                                  FYTB - T-Shaped Bolts
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                    FYTB8
+part_number                                     10-18012019-087227
+supplier                        Dongguan Forrun Hardware Co., Ltd.
+material                                                      None
+part_title                                   FYTB - T-Shaped Bolts
+design                                      T-Shaped Bolts - FYTB8
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 141, dtype: object>",2,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576347-34-screw_093126__25/screw_093126__25_640x480_right.png,189576347-34-screw_093126__25,"<bound method Series.view of part_id                              189576347-34-screw_093126__25
+folder_name                          189576347-34-screw_093126__25
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               093126  25
+part_number                                     33-27092023-093149
+supplier                                              Owlett-Jaton
+material                                                      None
+part_title               A2 - 304 St/St Hexagon Bolts DIN 931 - M6
+design              A2 - 304 St/St Hexagon Bolts DIN 931 - M6 x 25
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 148, dtype: object>",13,189576359-34-ebcob3-6
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576347-34-screw_093126__25/screw_093126__25_640x480_left.png,189576347-34-screw_093126__25,"<bound method Series.view of part_id                              189576347-34-screw_093126__25
+folder_name                          189576347-34-screw_093126__25
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               093126  25
+part_number                                     33-27092023-093149
+supplier                                              Owlett-Jaton
+material                                                      None
+part_title               A2 - 304 St/St Hexagon Bolts DIN 931 - M6
+design              A2 - 304 St/St Hexagon Bolts DIN 931 - M6 x 25
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 149, dtype: object>",9,189576337-34-screw_hx025872
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576347-34-screw_093126__25/screw_093126__25_640x480_iso.png,189576347-34-screw_093126__25,"<bound method Series.view of part_id                              189576347-34-screw_093126__25
+folder_name                          189576347-34-screw_093126__25
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               093126  25
+part_number                                     33-27092023-093149
+supplier                                              Owlett-Jaton
+material                                                      None
+part_title               A2 - 304 St/St Hexagon Bolts DIN 931 - M6
+design              A2 - 304 St/St Hexagon Bolts DIN 931 - M6 x 25
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 153, dtype: object>",22,189576337-34-screw_hx025872
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576337-34-screw_hx025872/screw_hx025872_640x480_iso.png,189576337-34-screw_hx025872,"<bound method Series.view of part_id                                189576337-34-screw_hx025872
+folder_name                            189576337-34-screw_hx025872
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 HX025872
+part_number                                     33-21092023-091948
+supplier                                              Owlett-Jaton
+material                                                      None
+part_title       A2 - 304 St/St Coach Screws Hexagon Head DIN 5...
+design           A2 - 304 St/St Coach Screws Hexagon Head DIN 5...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 154, dtype: object>",7,189576347-34-screw_093126__25
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576337-34-screw_hx025872/screw_hx025872_640x480_right.png,189576337-34-screw_hx025872,"<bound method Series.view of part_id                                189576337-34-screw_hx025872
+folder_name                            189576337-34-screw_hx025872
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 HX025872
+part_number                                     33-21092023-091948
+supplier                                              Owlett-Jaton
+material                                                      None
+part_title       A2 - 304 St/St Coach Screws Hexagon Head DIN 5...
+design           A2 - 304 St/St Coach Screws Hexagon Head DIN 5...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 156, dtype: object>",13,189576395-34-2453650
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576337-34-screw_hx025872/screw_hx025872_640x480_left.png,189576337-34-screw_hx025872,"<bound method Series.view of part_id                                189576337-34-screw_hx025872
+folder_name                            189576337-34-screw_hx025872
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 HX025872
+part_number                                     33-21092023-091948
+supplier                                              Owlett-Jaton
+material                                                      None
+part_title       A2 - 304 St/St Coach Screws Hexagon Head DIN 5...
+design           A2 - 304 St/St Coach Screws Hexagon Head DIN 5...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 159, dtype: object>",18,189576347-34-screw_093126__25
+"/Users/tanishqjadhav/Desktop/Extractor/data/raw/DIN 787 Metric Size, Steel T-Slot Bolts/787-6-m6-25_640x480_top.png","DIN 787 Metric Size, Steel T-Slot Bolts","<bound method Series.view of part_id                    DIN 787 Metric Size, Steel T-Slot Bolts
+folder_name                DIN 787 Metric Size, Steel T-Slot Bolts
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              787-6-M6-25
+part_number                                     90-04092020-049501
+supplier                                                  JW Winco
+material                                   VS - Heat-treated steel
+part_title                 DIN 787 Metric Size, Steel T-Slot Bolts
+design                             Metric Size, Steel T-Slot Bolts
+weight                                                   0.016 lbs
+eclass                                                    23110607
+rohs                                                           Yes
+Name: 162, dtype: object>",2,189576172-34-ylbt8x20-c1
+"/Users/tanishqjadhav/Desktop/Extractor/data/raw/DIN 787 Metric Size, Steel T-Slot Bolts/787-6-m6-25_640x480_back.png","DIN 787 Metric Size, Steel T-Slot Bolts","<bound method Series.view of part_id                    DIN 787 Metric Size, Steel T-Slot Bolts
+folder_name                DIN 787 Metric Size, Steel T-Slot Bolts
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              787-6-M6-25
+part_number                                     90-04092020-049501
+supplier                                                  JW Winco
+material                                   VS - Heat-treated steel
+part_title                 DIN 787 Metric Size, Steel T-Slot Bolts
+design                             Metric Size, Steel T-Slot Bolts
+weight                                                   0.016 lbs
+eclass                                                    23110607
+rohs                                                           Yes
+Name: 163, dtype: object>",26,189576252-114-fm0v224zf
+"/Users/tanishqjadhav/Desktop/Extractor/data/raw/DIN 787 Metric Size, Steel T-Slot Bolts/787-6-m6-25_640x480_bottom.png","DIN 787 Metric Size, Steel T-Slot Bolts","<bound method Series.view of part_id                    DIN 787 Metric Size, Steel T-Slot Bolts
+folder_name                DIN 787 Metric Size, Steel T-Slot Bolts
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              787-6-M6-25
+part_number                                     90-04092020-049501
+supplier                                                  JW Winco
+material                                   VS - Heat-treated steel
+part_title                 DIN 787 Metric Size, Steel T-Slot Bolts
+design                             Metric Size, Steel T-Slot Bolts
+weight                                                   0.016 lbs
+eclass                                                    23110607
+rohs                                                           Yes
+Name: 164, dtype: object>",4,189576183-34-ylat8x17-c1
+"/Users/tanishqjadhav/Desktop/Extractor/data/raw/DIN 787 Metric Size, Steel T-Slot Bolts/787-6-m6-25_640x480_iso.png","DIN 787 Metric Size, Steel T-Slot Bolts","<bound method Series.view of part_id                    DIN 787 Metric Size, Steel T-Slot Bolts
+folder_name                DIN 787 Metric Size, Steel T-Slot Bolts
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              787-6-M6-25
+part_number                                     90-04092020-049501
+supplier                                                  JW Winco
+material                                   VS - Heat-treated steel
+part_title                 DIN 787 Metric Size, Steel T-Slot Bolts
+design                             Metric Size, Steel T-Slot Bolts
+weight                                                   0.016 lbs
+eclass                                                    23110607
+rohs                                                           Yes
+Name: 165, dtype: object>",19,189576270-34-bolt_din_261-m8x30
+"/Users/tanishqjadhav/Desktop/Extractor/data/raw/DIN 787 Metric Size, Steel T-Slot Bolts/787-6-m6-25_640x480_front.png","DIN 787 Metric Size, Steel T-Slot Bolts","<bound method Series.view of part_id                    DIN 787 Metric Size, Steel T-Slot Bolts
+folder_name                DIN 787 Metric Size, Steel T-Slot Bolts
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              787-6-M6-25
+part_number                                     90-04092020-049501
+supplier                                                  JW Winco
+material                                   VS - Heat-treated steel
+part_title                 DIN 787 Metric Size, Steel T-Slot Bolts
+design                             Metric Size, Steel T-Slot Bolts
+weight                                                   0.016 lbs
+eclass                                                    23110607
+rohs                                                           Yes
+Name: 166, dtype: object>",30,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576449-34-16-280-32-4-10/16-280-32-4-10_640x480_right.png,189576449-34-16-280-32-4-10,"<bound method Series.view of part_id                                189576449-34-16-280-32-4-10
+folder_name                            189576449-34-16-280-32-4-10
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           16-280-32-4-10
+part_number                                     90-02012026-053049
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title       16-28 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+design           16-28 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 176, dtype: object>",2,189576454-34-633-40-m5-16-dsg
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576449-34-16-280-32-4-10/16-280-32-4-10_640x480_iso.png,189576449-34-16-280-32-4-10,"<bound method Series.view of part_id                                189576449-34-16-280-32-4-10
+folder_name                            189576449-34-16-280-32-4-10
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           16-280-32-4-10
+part_number                                     90-02012026-053049
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title       16-28 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+design           16-28 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 177, dtype: object>",2,189576454-34-633-40-m5-16-dsg
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576449-34-16-280-32-4-10/16-280-32-4-10_640x480_left.png,189576449-34-16-280-32-4-10,"<bound method Series.view of part_id                                189576449-34-16-280-32-4-10
+folder_name                            189576449-34-16-280-32-4-10
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           16-280-32-4-10
+part_number                                     90-02012026-053049
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title       16-28 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+design           16-28 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 181, dtype: object>",2,189576454-34-633-40-m5-16-dsg
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576443-34-16-140-20-4-6/16-140-20-4-6_640x480_left.png,189576443-34-16-140-20-4-6,"<bound method Series.view of part_id                                 189576443-34-16-140-20-4-6
+folder_name                             189576443-34-16-140-20-4-6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            16-140-20-4-6
+part_number                                     90-03012026-019588
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title       16-14 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+design           16-14 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 184, dtype: object>",14,189576667-114-2m02
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576443-34-16-140-20-4-6/16-140-20-4-6_640x480_right.png,189576443-34-16-140-20-4-6,"<bound method Series.view of part_id                                 189576443-34-16-140-20-4-6
+folder_name                             189576443-34-16-140-20-4-6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            16-140-20-4-6
+part_number                                     90-03012026-019588
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title       16-14 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+design           16-14 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 187, dtype: object>",3,189576175-114-t356a104k035at
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576443-34-16-140-20-4-6/16-140-20-4-6_640x480_iso.png,189576443-34-16-140-20-4-6,"<bound method Series.view of part_id                                 189576443-34-16-140-20-4-6
+folder_name                             189576443-34-16-140-20-4-6
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            16-140-20-4-6
+part_number                                     90-03012026-019588
+supplier                                              EMILE MAURIN
+material                                                      None
+part_title       16-14 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+design           16-14 VIS PAPILLON TECHNOPOLYMÈRE À TIGE FILET...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 188, dtype: object>",2,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576454-34-633-40-m5-16-dsg/633-40-m5-16-dsg_640x480_right.png,189576454-34-633-40-m5-16-dsg,"<bound method Series.view of part_id                              189576454-34-633-40-m5-16-dsg
+folder_name                          189576454-34-633-40-m5-16-dsg
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         right
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                         633-40-M5-16-DSG
+part_number                                     90-30092020-082246
+supplier                                                  JW Winco
+material                                              PA - Plastic
+part_title       EN 633 Technopolymer Plastic Wing Screws, with...
+design           Technopolymer Plastic Wing Screws, with Steel ...
+weight                                                   0.022 lbs
+eclass                                                    23110601
+rohs                                                           Yes
+Name: 198, dtype: object>",2,189576449-34-16-280-32-4-10
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576454-34-633-40-m5-16-dsg/633-40-m5-16-dsg_640x480_iso.png,189576454-34-633-40-m5-16-dsg,"<bound method Series.view of part_id                              189576454-34-633-40-m5-16-dsg
+folder_name                          189576454-34-633-40-m5-16-dsg
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                         633-40-M5-16-DSG
+part_number                                     90-30092020-082246
+supplier                                                  JW Winco
+material                                              PA - Plastic
+part_title       EN 633 Technopolymer Plastic Wing Screws, with...
+design           Technopolymer Plastic Wing Screws, with Steel ...
+weight                                                   0.022 lbs
+eclass                                                    23110601
+rohs                                                           Yes
+Name: 199, dtype: object>",2,189576449-34-16-280-32-4-10
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576454-34-633-40-m5-16-dsg/633-40-m5-16-dsg_640x480_left.png,189576454-34-633-40-m5-16-dsg,"<bound method Series.view of part_id                              189576454-34-633-40-m5-16-dsg
+folder_name                          189576454-34-633-40-m5-16-dsg
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                         633-40-M5-16-DSG
+part_number                                     90-30092020-082246
+supplier                                                  JW Winco
+material                                              PA - Plastic
+part_title       EN 633 Technopolymer Plastic Wing Screws, with...
+design           Technopolymer Plastic Wing Screws, with Steel ...
+weight                                                   0.022 lbs
+eclass                                                    23110601
+rohs                                                           Yes
+Name: 200, dtype: object>",2,189576449-34-16-280-32-4-10
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576381-34-bouloncem6_20nfe27-312rapp/bouloncem6_20nfe27-312rapp_640x480_back.png,189576381-34-bouloncem6_20nfe27-312rapp,"<bound method Series.view of part_id                    189576381-34-bouloncem6_20nfe27-312rapp
+folder_name                189576381-34-bouloncem6_20nfe27-312rapp
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                   NF E 27-312 CE - d M6 - l 20 - H - e 2
+part_number                                     10-08082008-066207
+supplier                                                      None
+material                                                      None
+part_title              Boulons bruts ou usinés à tête cylindrique
+design           Boulon CE, M 6-20, NF E 27-312, écrou H, ergot...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 204, dtype: object>",4,189576291-34-100016x16
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576381-34-bouloncem6_20nfe27-312rapp/bouloncem6_20nfe27-312rapp_640x480_bottom.png,189576381-34-bouloncem6_20nfe27-312rapp,"<bound method Series.view of part_id                    189576381-34-bouloncem6_20nfe27-312rapp
+folder_name                189576381-34-bouloncem6_20nfe27-312rapp
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                   NF E 27-312 CE - d M6 - l 20 - H - e 2
+part_number                                     10-08082008-066207
+supplier                                                      None
+material                                                      None
+part_title              Boulons bruts ou usinés à tête cylindrique
+design           Boulon CE, M 6-20, NF E 27-312, écrou H, ergot...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 206, dtype: object>",2,189576183-34-ylat8x17-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576381-34-bouloncem6_20nfe27-312rapp/bouloncem6_20nfe27-312rapp_640x480_front.png,189576381-34-bouloncem6_20nfe27-312rapp,"<bound method Series.view of part_id                    189576381-34-bouloncem6_20nfe27-312rapp
+folder_name                189576381-34-bouloncem6_20nfe27-312rapp
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                   NF E 27-312 CE - d M6 - l 20 - H - e 2
+part_number                                     10-08082008-066207
+supplier                                                      None
+material                                                      None
+part_title              Boulons bruts ou usinés à tête cylindrique
+design           Boulon CE, M 6-20, NF E 27-312, écrou H, ergot...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 207, dtype: object>",8,189576369-34-ebtf3
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576381-34-bouloncem6_20nfe27-312rapp/bouloncem6_20nfe27-312rapp_640x480_iso.png,189576381-34-bouloncem6_20nfe27-312rapp,"<bound method Series.view of part_id                    189576381-34-bouloncem6_20nfe27-312rapp
+folder_name                189576381-34-bouloncem6_20nfe27-312rapp
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                   NF E 27-312 CE - d M6 - l 20 - H - e 2
+part_number                                     10-08082008-066207
+supplier                                                      None
+material                                                      None
+part_title              Boulons bruts ou usinés à tête cylindrique
+design           Boulon CE, M 6-20, NF E 27-312, écrou H, ergot...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 209, dtype: object>",7,189576291-34-100016x16
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576407-34-2454295/2454295_640x480_iso.png,189576407-34-2454295,"<bound method Series.view of part_id                                       189576407-34-2454295
+folder_name                                   189576407-34-2454295
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2454295
+part_number                                     90-23112023-032765
+supplier                                                    RS PRO
+material                                                      None
+part_title                            1/2 X 10 LAG BOLT GALVANIZED
+design                                1/2 X 10 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 213, dtype: object>",14,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576407-34-2454295/2454295_640x480_back.png,189576407-34-2454295,"<bound method Series.view of part_id                                       189576407-34-2454295
+folder_name                                   189576407-34-2454295
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2454295
+part_number                                     90-23112023-032765
+supplier                                                    RS PRO
+material                                                      None
+part_title                            1/2 X 10 LAG BOLT GALVANIZED
+design                                1/2 X 10 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 214, dtype: object>",21,189576417-34-2453652
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576407-34-2454295/2454295_640x480_front.png,189576407-34-2454295,"<bound method Series.view of part_id                                       189576407-34-2454295
+folder_name                                   189576407-34-2454295
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  2454295
+part_number                                     90-23112023-032765
+supplier                                                    RS PRO
+material                                                      None
+part_title                            1/2 X 10 LAG BOLT GALVANIZED
+design                                1/2 X 10 LAG BOLT GALVANIZED
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 216, dtype: object>",20,189576337-34-screw_hx025872
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576687-34-alb-10/alb-10_640x480_top.png,189576687-34-alb-10,"<bound method Series.view of part_id                                        189576687-34-alb-10
+folder_name                                    189576687-34-alb-10
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   ALB-10
+part_number                                     90-26042023-031308
+supplier                                        The Timken Company
+material                                                      None
+part_title       Aurora Bearing ALM & ALB Series Male Rod Ends ...
+design           Aurora Bearing ALM & ALB Series Male Rod Ends ...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 220, dtype: object>",9,189576270-34-bolt_din_261-m8x30
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576687-34-alb-10/alb-10_640x480_bottom.png,189576687-34-alb-10,"<bound method Series.view of part_id                                        189576687-34-alb-10
+folder_name                                    189576687-34-alb-10
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   ALB-10
+part_number                                     90-26042023-031308
+supplier                                        The Timken Company
+material                                                      None
+part_title       Aurora Bearing ALM & ALB Series Male Rod Ends ...
+design           Aurora Bearing ALM & ALB Series Male Rod Ends ...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 221, dtype: object>",4,189576270-34-bolt_din_261-m8x30
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576583-34-02462141/02462141_640x480_iso.png,189576583-34-02462141,"<bound method Series.view of part_id                                      189576583-34-02462141
+folder_name                                  189576583-34-02462141
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 KP4FS428
+part_number                                     90-15012022-051023
+supplier                                              RBC Bearings
+material                                                      None
+part_title                 Airframe Control Ball Bearing, KP4FS428
+design           Airframe Control Ball Bearing, 0.2500 in Bore,...
+weight                                                    0.06 lbs
+eclass                                                        None
+rohs                                                          None
+Name: 225, dtype: object>",7,189576516-34-64771001
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576829-114-sk_638_____l_25/sk_638_____l_25_640x480_iso.jpg,189576829-114-sk_638_____l_25,"<bound method Series.view of part_id                              189576829-114-sk_638_____l_25
+folder_name                          189576829-114-sk_638_____l_25
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                SK 638 25
+part_number                                     34-23062017-103198
+supplier                          Fischer Elektronik GmbH & Co. KG
+material                                                      None
+part_title                                  10,3 x 40 mm, SK 638 …
+design           Strangkühlkörper für Einrast-Transistorhaltefeder
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 238, dtype: object>",6,189576054-114-ldeia1100ka0n00
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576829-114-sk_638_____l_25/sk_638_____l_25_640x480_top.jpg,189576829-114-sk_638_____l_25,"<bound method Series.view of part_id                              189576829-114-sk_638_____l_25
+folder_name                          189576829-114-sk_638_____l_25
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                SK 638 25
+part_number                                     34-23062017-103198
+supplier                          Fischer Elektronik GmbH & Co. KG
+material                                                      None
+part_title                                  10,3 x 40 mm, SK 638 …
+design           Strangkühlkörper für Einrast-Transistorhaltefeder
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 240, dtype: object>",2,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576829-114-sk_638_____l_25/sk_638_____l_25_640x480_left.jpg,189576829-114-sk_638_____l_25,"<bound method Series.view of part_id                              189576829-114-sk_638_____l_25
+folder_name                          189576829-114-sk_638_____l_25
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          left
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                SK 638 25
+part_number                                     34-23062017-103198
+supplier                          Fischer Elektronik GmbH & Co. KG
+material                                                      None
+part_title                                  10,3 x 40 mm, SK 638 …
+design           Strangkühlkörper für Einrast-Transistorhaltefeder
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 244, dtype: object>",2,189576581-114-_a921cy-470m_p3
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576514-114-71071085/71071085_640x480_iso.jpg,189576514-114-71071085,"<bound method Series.view of part_id                                     189576514-114-71071085
+folder_name                                 189576514-114-71071085
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  7447070
+part_number                                     90-06122023-040937
+supplier                                          Wurth Elektronik
+material                                                      None
+part_title       100 µH ±20 % Composite Iron Powder Toroidal In...
+design           100 µH ±20 % Composite Iron Powder Toroidal In...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 249, dtype: object>",2,189576478-114-70996524
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576581-114-_a921cy-470m_p3/_a921cy-470m_p3_640x480_back.jpg,189576581-114-_a921cy-470m_p3,"<bound method Series.view of part_id                              189576581-114-_a921cy-470m_p3
+folder_name                          189576581-114-_a921cy-470m_p3
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          #A921CY-470M=P3
+part_number                                     90-07112024-042231
+supplier                                                    MURATA
+material                                                      None
+part_title                                         #A921CY-470M=P3
+design           Wire Wound Ferrite Inductor for Power Lines, #...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 258, dtype: object>",14,189576856-34-13c004004
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576177-114-759407/759407_640x480_iso.jpg,189576177-114-759407,"<bound method Series.view of part_id                                       189576177-114-759407
+folder_name                                   189576177-114-759407
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          BLRCH104A125B48
+part_number                                     90-07032026-031541
+supplier                                        Schneider Electric
+material                                                      None
+part_title                    CAPACITOR CAN HDY 10.4/12.5KVAR 480V
+design                        CAPACITOR CAN HDY 10.4/12.5KVAR 480V
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 267, dtype: object>",2,189576205-114-119351
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576177-114-759407/759407_640x480_bottom.jpg,189576177-114-759407,"<bound method Series.view of part_id                                       189576177-114-759407
+folder_name                                   189576177-114-759407
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          BLRCH104A125B48
+part_number                                     90-07032026-031541
+supplier                                        Schneider Electric
+material                                                      None
+part_title                    CAPACITOR CAN HDY 10.4/12.5KVAR 480V
+design                        CAPACITOR CAN HDY 10.4/12.5KVAR 480V
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 270, dtype: object>",27,189576205-114-119351
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576177-114-759407/759407_640x480_top.jpg,189576177-114-759407,"<bound method Series.view of part_id                                       189576177-114-759407
+folder_name                                   189576177-114-759407
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          BLRCH104A125B48
+part_number                                     90-07032026-031541
+supplier                                        Schneider Electric
+material                                                      None
+part_title                    CAPACITOR CAN HDY 10.4/12.5KVAR 480V
+design                        CAPACITOR CAN HDY 10.4/12.5KVAR 480V
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 272, dtype: object>",24,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576026-114-70258696/70258696_640x480_back.jpg,189576026-114-70258696,"<bound method Series.view of part_id                                     189576026-114-70258696
+folder_name                                 189576026-114-70258696
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            EEH-ZA1E101XP
+part_number                                     90-07122023-062746
+supplier                                                 Panasonic
+material                                                      None
+part_title                     Hybrid Cap SMT ZA 25V 100uF low ESR
+design                         Hybrid Cap SMT ZA 25V 100uF low ESR
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 273, dtype: object>",26,189576183-34-ylat8x17-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576026-114-70258696/70258696_640x480_iso.jpg,189576026-114-70258696,"<bound method Series.view of part_id                                     189576026-114-70258696
+folder_name                                 189576026-114-70258696
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            EEH-ZA1E101XP
+part_number                                     90-07122023-062746
+supplier                                                 Panasonic
+material                                                      None
+part_title                     Hybrid Cap SMT ZA 25V 100uF low ESR
+design                         Hybrid Cap SMT ZA 25V 100uF low ESR
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 276, dtype: object>",11,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576026-114-70258696/70258696_640x480_front.jpg,189576026-114-70258696,"<bound method Series.view of part_id                                     189576026-114-70258696
+folder_name                                 189576026-114-70258696
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            EEH-ZA1E101XP
+part_number                                     90-07122023-062746
+supplier                                                 Panasonic
+material                                                      None
+part_title                     Hybrid Cap SMT ZA 25V 100uF low ESR
+design                         Hybrid Cap SMT ZA 25V 100uF low ESR
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 277, dtype: object>",33,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576026-114-70258696/70258696_640x480_top.jpg,189576026-114-70258696,"<bound method Series.view of part_id                                     189576026-114-70258696
+folder_name                                 189576026-114-70258696
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                            EEH-ZA1E101XP
+part_number                                     90-07122023-062746
+supplier                                                 Panasonic
+material                                                      None
+part_title                     Hybrid Cap SMT ZA 25V 100uF low ESR
+design                         Hybrid Cap SMT ZA 25V 100uF low ESR
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 279, dtype: object>",3,189576172-34-ylbt8x20-c1
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576534-114-70027399/70027399_640x480_front.jpg,189576534-114-70027399,"<bound method Series.view of part_id                                     189576534-114-70027399
+folder_name                                 189576534-114-70027399
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               RN212-2-02
+part_number                                     90-07122023-066961
+supplier                                                 Schaffner
+material                                                      None
+part_title       1.8mH -30 to +50% Current Compensated Choke, 2...
+design           1.8mH -30 to +50% Current Compensated Choke, 2...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 289, dtype: object>",5,189576478-114-70996524
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576534-114-70027399/70027399_640x480_back.jpg,189576534-114-70027399,"<bound method Series.view of part_id                                     189576534-114-70027399
+folder_name                                 189576534-114-70027399
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               RN212-2-02
+part_number                                     90-07122023-066961
+supplier                                                 Schaffner
+material                                                      None
+part_title       1.8mH -30 to +50% Current Compensated Choke, 2...
+design           1.8mH -30 to +50% Current Compensated Choke, 2...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 291, dtype: object>",13,189576252-114-fm0v224zf
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576534-114-70027399/70027399_640x480_iso.jpg,189576534-114-70027399,"<bound method Series.view of part_id                                     189576534-114-70027399
+folder_name                                 189576534-114-70027399
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               RN212-2-02
+part_number                                     90-07122023-066961
+supplier                                                 Schaffner
+material                                                      None
+part_title       1.8mH -30 to +50% Current Compensated Choke, 2...
+design           1.8mH -30 to +50% Current Compensated Choke, 2...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 292, dtype: object>",2,189576175-114-t356a104k035at
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576805-114-agb184/agb184_640x480_iso.jpg,189576805-114-agb184,"<bound method Series.view of part_id                                       189576805-114-agb184
+folder_name                                   189576805-114-agb184
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   AGB184
+part_number                                     90-08092022-030475
+supplier                                      Pelonis Technologies
+material                                                      None
+part_title       0.14 Cubic Feet Per Minute (ft³/min) Airflow (...
+design           0.14 Cubic Feet Per Minute (ft³/min) Airflow (...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 294, dtype: object>",19,189576581-114-_a921cy-470m_p3
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576805-114-agb184/agb184_640x480_back.jpg,189576805-114-agb184,"<bound method Series.view of part_id                                       189576805-114-agb184
+folder_name                                   189576805-114-agb184
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   AGB184
+part_number                                     90-08092022-030475
+supplier                                      Pelonis Technologies
+material                                                      None
+part_title       0.14 Cubic Feet Per Minute (ft³/min) Airflow (...
+design           0.14 Cubic Feet Per Minute (ft³/min) Airflow (...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 296, dtype: object>",20,189576534-114-70027399
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576805-114-agb184/agb184_640x480_front.jpg,189576805-114-agb184,"<bound method Series.view of part_id                                       189576805-114-agb184
+folder_name                                   189576805-114-agb184
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                   AGB184
+part_number                                     90-08092022-030475
+supplier                                      Pelonis Technologies
+material                                                      None
+part_title       0.14 Cubic Feet Per Minute (ft³/min) Airflow (...
+design           0.14 Cubic Feet Per Minute (ft³/min) Airflow (...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 299, dtype: object>",38,189576353-34-ebdb3-3-3
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576205-114-119351/119351_640x480_iso.jpg,189576205-114-119351,"<bound method Series.view of part_id                                       189576205-114-119351
+folder_name                                   189576205-114-119351
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          BLRCH400A480B40
+part_number                                     90-20112024-965079
+supplier                                        Schneider Electric
+material                                                      None
+part_title                               CONDENSATEUR CAN HDY 40/4
+design                                   CONDENSATEUR CAN HDY 40/4
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 301, dtype: object>",3,189576177-114-759407
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576205-114-119351/119351_640x480_top.jpg,189576205-114-119351,"<bound method Series.view of part_id                                       189576205-114-119351
+folder_name                                   189576205-114-119351
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          BLRCH400A480B40
+part_number                                     90-20112024-965079
+supplier                                        Schneider Electric
+material                                                      None
+part_title                               CONDENSATEUR CAN HDY 40/4
+design                                   CONDENSATEUR CAN HDY 40/4
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 302, dtype: object>",9,189576135-114-als40a222db100
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576205-114-119351/119351_640x480_bottom.jpg,189576205-114-119351,"<bound method Series.view of part_id                                       189576205-114-119351
+folder_name                                   189576205-114-119351
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          BLRCH400A480B40
+part_number                                     90-20112024-965079
+supplier                                        Schneider Electric
+material                                                      None
+part_title                               CONDENSATEUR CAN HDY 40/4
+design                                   CONDENSATEUR CAN HDY 40/4
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 305, dtype: object>",22,189576177-114-759407
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576054-114-ldeia1100ka0n00/ldeia1100ka0n00_640x480_bottom.jpg,189576054-114-ldeia1100ka0n00,"<bound method Series.view of part_id                              189576054-114-ldeia1100ka0n00
+folder_name                          189576054-114-ldeia1100ka0n00
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          LDEIA1100KA0N00
+part_number                                     10-05092019-121363
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.001μF PEN Film Capacitor 120 V dc, 250...
+design           KEMET 0.001μF PEN Film Capacitor 120 V dc, 250...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 313, dtype: object>",2,189576534-114-70027399
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576054-114-ldeia1100ka0n00/ldeia1100ka0n00_640x480_iso.jpg,189576054-114-ldeia1100ka0n00,"<bound method Series.view of part_id                              189576054-114-ldeia1100ka0n00
+folder_name                          189576054-114-ldeia1100ka0n00
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                          LDEIA1100KA0N00
+part_number                                     10-05092019-121363
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.001μF PEN Film Capacitor 120 V dc, 250...
+design           KEMET 0.001μF PEN Film Capacitor 120 V dc, 250...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 314, dtype: object>",10,189576295-34-n6-30m6
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576249-114-fg0h104zf/fg0h104zf_640x480_bottom.jpg,189576249-114-fg0h104zf,"<bound method Series.view of part_id                                    189576249-114-fg0h104zf
+folder_name                                189576249-114-fg0h104zf
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                FG0H104ZF
+part_number                                     10-04092019-090162
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.1F Supercapacitor EDLC -20  +80% Toler...
+design           KEMET 0.1F Supercapacitor EDLC -20  +80% Toler...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 317, dtype: object>",4,189576755-34-vw28-la95-a-5_5
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576453-114-1859782/1859782_640x480_back.jpg,189576453-114-1859782,"<bound method Series.view of part_id                                      189576453-114-1859782
+folder_name                                  189576453-114-1859782
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  1859782
+part_number                                     27-05639103-016526
+supplier                                           PHOENIX CONTACT
+material                                                      None
+part_title                                    FIL-3C-1H -20A-480AC
+design                                                  EMC filter
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 330, dtype: object>",4,189576252-114-fm0v224zf
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576453-114-1859782/1859782_640x480_front.jpg,189576453-114-1859782,"<bound method Series.view of part_id                                      189576453-114-1859782
+folder_name                                  189576453-114-1859782
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                  1859782
+part_number                                     27-05639103-016526
+supplier                                           PHOENIX CONTACT
+material                                                      None
+part_title                                    FIL-3C-1H -20A-480AC
+design                                                  EMC filter
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 333, dtype: object>",4,189576088-114-smr5103j100j01l16_5cbulk
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576478-114-70996524/70996524_640x480_back.jpg,189576478-114-70996524,"<bound method Series.view of part_id                                     189576478-114-70996524
+folder_name                                 189576478-114-70996524
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               7448262510
+part_number                                     90-06122023-044204
+supplier                                          Wurth Elektronik
+material                                                      None
+part_title       1000 µH ±30 % Ferrite Leaded Inductor, Max SRF...
+design           1000 µH ±30 % Ferrite Leaded Inductor, Max SRF...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 343, dtype: object>",2,189576514-114-71071085
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576478-114-70996524/70996524_640x480_iso.jpg,189576478-114-70996524,"<bound method Series.view of part_id                                     189576478-114-70996524
+folder_name                                 189576478-114-70996524
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               7448262510
+part_number                                     90-06122023-044204
+supplier                                          Wurth Elektronik
+material                                                      None
+part_title       1000 µH ±30 % Ferrite Leaded Inductor, Max SRF...
+design           1000 µH ±30 % Ferrite Leaded Inductor, Max SRF...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 345, dtype: object>",2,189576514-114-71071085
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576478-114-70996524/70996524_640x480_front.jpg,189576478-114-70996524,"<bound method Series.view of part_id                                     189576478-114-70996524
+folder_name                                 189576478-114-70996524
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                               7448262510
+part_number                                     90-06122023-044204
+supplier                                          Wurth Elektronik
+material                                                      None
+part_title       1000 µH ±30 % Ferrite Leaded Inductor, Max SRF...
+design           1000 µH ±30 % Ferrite Leaded Inductor, Max SRF...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 349, dtype: object>",38,189576534-114-70027399
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576464-114-c1-106812/c1-106812_640x480_iso.jpg,189576464-114-c1-106812,"<bound method Series.view of part_id                                    189576464-114-c1-106812
+folder_name                                189576464-114-c1-106812
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                C1-106812
+part_number                                     90-21102021-059947
+supplier                                             WEH FluidTech
+material                                                      None
+part_title       Filter TSF4 CNG for CNG vehicles / fueling sta...
+design           WEH® Filter TSF4 CNG for CNG vehicles (ECE), T...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 357, dtype: object>",7,189576381-34-bouloncem6_20nfe27-312rapp
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576400-114-mmq-40125hm/mmq-40125hm_640x480_iso.jpg,189576400-114-mmq-40125hm,"<bound method Series.view of part_id                                  189576400-114-mmq-40125hm
+folder_name                              189576400-114-mmq-40125hm
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                              MMQ-40125HM
+part_number                                     90-19012025-062456
+supplier                                           Marki Microwave
+material                                                      None
+part_title       GaAs MMIC Millimeter Wave 4x Multiplier MMQ-40...
+design                     GaAs MMIC Millimeter Wave 4x Multiplier
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 367, dtype: object>",7,189576725-34-ptue20
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576088-114-smr5103j100j01l16_5cbulk/smr5103j100j01l16_5cbulk_640x480_top.jpg,189576088-114-smr5103j100j01l16_5cbulk,"<bound method Series.view of part_id                     189576088-114-smr5103j100j01l16_5cbulk
+folder_name                 189576088-114-smr5103j100j01l16_5cbulk
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                 SMR5103J100J01L16.5CBULK
+part_number                                     10-03092019-106360
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 10nF Polyphenylene Sulphide Film Capacit...
+design           KEMET 10nF Polyphenylene Sulphide Film Capacit...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 371, dtype: object>",13,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576088-114-smr5103j100j01l16_5cbulk/smr5103j100j01l16_5cbulk_640x480_front.jpg,189576088-114-smr5103j100j01l16_5cbulk,"<bound method Series.view of part_id                     189576088-114-smr5103j100j01l16_5cbulk
+folder_name                 189576088-114-smr5103j100j01l16_5cbulk
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                 SMR5103J100J01L16.5CBULK
+part_number                                     10-03092019-106360
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 10nF Polyphenylene Sulphide Film Capacit...
+design           KEMET 10nF Polyphenylene Sulphide Film Capacit...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 373, dtype: object>",2,189576252-114-fm0v224zf
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576088-114-smr5103j100j01l16_5cbulk/smr5103j100j01l16_5cbulk_640x480_bottom.jpg,189576088-114-smr5103j100j01l16_5cbulk,"<bound method Series.view of part_id                     189576088-114-smr5103j100j01l16_5cbulk
+folder_name                 189576088-114-smr5103j100j01l16_5cbulk
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                 SMR5103J100J01L16.5CBULK
+part_number                                     10-03092019-106360
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 10nF Polyphenylene Sulphide Film Capacit...
+design           KEMET 10nF Polyphenylene Sulphide Film Capacit...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 375, dtype: object>",4,189576805-114-agb184
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576088-114-smr5103j100j01l16_5cbulk/smr5103j100j01l16_5cbulk_640x480_iso.jpg,189576088-114-smr5103j100j01l16_5cbulk,"<bound method Series.view of part_id                     189576088-114-smr5103j100j01l16_5cbulk
+folder_name                 189576088-114-smr5103j100j01l16_5cbulk
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                 SMR5103J100J01L16.5CBULK
+part_number                                     10-03092019-106360
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 10nF Polyphenylene Sulphide Film Capacit...
+design           KEMET 10nF Polyphenylene Sulphide Film Capacit...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 376, dtype: object>",10,189576252-114-fm0v224zf
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576252-114-fm0v224zf/fm0v224zf_640x480_bottom.jpg,189576252-114-fm0v224zf,"<bound method Series.view of part_id                                    189576252-114-fm0v224zf
+folder_name                                189576252-114-fm0v224zf
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                FM0V224ZF
+part_number                                     10-03092019-097281
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+design           KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 378, dtype: object>",14,189576478-114-70996524
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576252-114-fm0v224zf/fm0v224zf_640x480_back.jpg,189576252-114-fm0v224zf,"<bound method Series.view of part_id                                    189576252-114-fm0v224zf
+folder_name                                189576252-114-fm0v224zf
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                          back
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                FM0V224ZF
+part_number                                     10-03092019-097281
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+design           KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 380, dtype: object>",4,"DIN 787 Metric Size, Steel T-Slot Bolts"
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576252-114-fm0v224zf/fm0v224zf_640x480_front.jpg,189576252-114-fm0v224zf,"<bound method Series.view of part_id                                    189576252-114-fm0v224zf
+folder_name                                189576252-114-fm0v224zf
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                         front
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                FM0V224ZF
+part_number                                     10-03092019-097281
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+design           KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 381, dtype: object>",3,189576088-114-smr5103j100j01l16_5cbulk
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576252-114-fm0v224zf/fm0v224zf_640x480_iso.jpg,189576252-114-fm0v224zf,"<bound method Series.view of part_id                                    189576252-114-fm0v224zf
+folder_name                                189576252-114-fm0v224zf
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                FM0V224ZF
+part_number                                     10-03092019-097281
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+design           KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 383, dtype: object>",6,189576534-114-70027399
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576252-114-fm0v224zf/fm0v224zf_640x480_top.jpg,189576252-114-fm0v224zf,"<bound method Series.view of part_id                                    189576252-114-fm0v224zf
+folder_name                                189576252-114-fm0v224zf
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                FM0V224ZF
+part_number                                     10-03092019-097281
+supplier                                                     KEMET
+material                                                      None
+part_title       KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+design           KEMET 0.22F Supercapacitor -20 → +80% Toleranc...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 384, dtype: object>",19,189576054-114-ldeia1100ka0n00
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576372-114-inv-0065/inv-0065_640x480_iso.jpg,189576372-114-inv-0065,"<bound method Series.view of part_id                                     189576372-114-inv-0065
+folder_name                                 189576372-114-inv-0065
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                 INV-0065
+part_number                                     90-19012025-062436
+supplier                                           Marki Microwave
+material                                                      None
+part_title                       Broadband Pulse Inverter INV-0065
+design                                    Broadband Pulse Inverter
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 395, dtype: object>",4,189576400-114-mmq-40125hm
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576135-114-als40a222db100/als40a222db100_640x480_top.jpg,189576135-114-als40a222db100,"<bound method Series.view of part_id                               189576135-114-als40a222db100
+folder_name                           189576135-114-als40a222db100
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           ALS40A222DB100
+part_number                                     10-04092019-100515
+supplier                                                     KEMET
+material                                                      None
+part_title                                       100V 2200UF ALS40
+design                                           100V 2200UF ALS40
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 403, dtype: object>",4,189576249-114-fg0h104zf
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576135-114-als40a222db100/als40a222db100_640x480_bottom.jpg,189576135-114-als40a222db100,"<bound method Series.view of part_id                               189576135-114-als40a222db100
+folder_name                           189576135-114-als40a222db100
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           ALS40A222DB100
+part_number                                     10-04092019-100515
+supplier                                                     KEMET
+material                                                      None
+part_title                                       100V 2200UF ALS40
+design                                           100V 2200UF ALS40
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 405, dtype: object>",14,189576740-34-40_t_shafts_adp416c
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576175-114-t356a104k035at/t356a104k035at_640x480_bottom.jpg,189576175-114-t356a104k035at,"<bound method Series.view of part_id                               189576175-114-t356a104k035at
+folder_name                           189576175-114-t356a104k035at
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                        bottom
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           T356A104K035AT
+part_number                                     10-04092019-125946
+supplier                                                     KEMET
+material                                                      None
+part_title                    Capacitor Tantalum .100uF Radial 35V
+design                        Capacitor Tantalum .100uF Radial 35V
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 414, dtype: object>",24,189576359-34-ebcob3-6
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576175-114-t356a104k035at/t356a104k035at_640x480_top.jpg,189576175-114-t356a104k035at,"<bound method Series.view of part_id                               189576175-114-t356a104k035at
+folder_name                           189576175-114-t356a104k035at
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           top
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                           T356A104K035AT
+part_number                                     10-04092019-125946
+supplier                                                     KEMET
+material                                                      None
+part_title                    Capacitor Tantalum .100uF Radial 35V
+design                        Capacitor Tantalum .100uF Radial 35V
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 417, dtype: object>",9,189576135-114-als40a222db100
+/Users/tanishqjadhav/Desktop/Extractor/data/raw/189576667-114-2m02/2m02_640x480_iso.jpg,189576667-114-2m02,"<bound method Series.view of part_id                                         189576667-114-2m02
+folder_name                                     189576667-114-2m02
+image_path       /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+view                                                           iso
+metadata_path    /Users/tanishqjadhav/Desktop/Extractor/data/ra...
+reference                                                     2M02
+part_number                                     90-15052019-051838
+supplier                                          GLOBE Benelux BV
+material                                                      None
+part_title                                Compact Vane Motors 2M02
+design           Compact Vane Motors max. power 0,27 kW / 0.36 ...
+weight                                                        None
+eclass                                                        None
+rohs                                                          None
+Name: 425, dtype: object>",3,189576149-114-7076231

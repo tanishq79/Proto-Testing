@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-20112024-965079";"";
+"REFERENCE";"BLRCH400A480B40";"";
+"rs_stock_number";"119351";"";
+"TraceParts.PartTitle";"CONDENSATEUR CAN HDY 40/4";"";
+"url";"https://uk.rs-online.com/web/p/power-factor-correction-capacitors/0119351//?cm_mmc=aff-_-uk-_-traceparts-_-119351";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Schneider Electric";"";
+"DESIGN";"CONDENSATEUR CAN HDY 40/4";"";
+"TraceParts.InstanceId";"90-20112024-9650792N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

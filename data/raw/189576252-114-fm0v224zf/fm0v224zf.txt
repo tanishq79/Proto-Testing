@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartNumber";"10-03092019-097281";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"KEMET 0.22F Supercapacitor -20 → +80% Tolerance Supercap FM Series 3.5V dc Through Hole";"";
+"TraceParts.InstanceId";"10-03092019-0972817W2K8USZSJJ7NAPY302JGOFEJ";"";
+"TraceParts.PartTitle";"KEMET 0.22F Supercapacitor -20 → +80% Tolerance Supercap FM Series 3.5V dc Through Hole";"";
+"REFERENCE";"FM0V224ZF";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1356134?cm_mmc=en-ds-_-mcad-_-traceparts-_-1356134'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Part_Number_EShop_URL";"https://uk.rs-online.com/web/p/products/1356134?cm_mmc=en-ds-_-mcad-_-traceparts-_-1356134'";"";
+"rs_stock_number";"1356134";"";

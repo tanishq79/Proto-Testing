@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-20102023-014501";"";
+"REFERENCE";"YLBT8X20-C1";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"90-20102023-0145012N3XX9WWY2MK673V115V3T3RA";"";
+"M";"8";"";
+"TraceParts.PartTitle";"T-bolt";"";
+"CZ";"GMS";"";
+"SUPPLIER";"YA-VA Intelligent Systems Co., Ltd.";"";
+"DESIGN";"T-bolt YLBT8X20-C1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"KG";"0.02";"";

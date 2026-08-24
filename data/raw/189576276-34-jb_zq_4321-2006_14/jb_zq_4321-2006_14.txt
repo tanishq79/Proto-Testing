@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"50-04032014-073423";"";
+"REFERENCE";"JB/ZQ 4321-2006 14";"";
+"STANDARD";"JB/ZQ 4321-2006";"";
+"TraceParts.PartTitle";"U bolts - JB/ZQ 4321-2006";"";
+"TraceParts.InstanceId";"50-04032014-0734232N7605WFZIHA1WMXJNNITGQCR";"";
+"TraceParts.PartStandardAcronym";"GB";"";
+"DESIGN";"U bolts - JB/ZQ 4321-2006 14";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.7";"";

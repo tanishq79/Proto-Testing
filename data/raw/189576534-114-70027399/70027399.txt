@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-07122023-066961";"";
+"REFERENCE";"RN212-2-02";"";
+"SUPPLIER_PART_NUMBER";"70027399";"";
+"rs_stock_number";"70027399";"";
+"TraceParts.PartTitle";"1.8mH -30 to +50% Current Compensated Choke, 2A Id";"";
+"SUPPLIER_NAME";"RS Americas";"";
+"SUPPLIER";"Schaffner";"";
+"DESIGN";"1.8mH -30 to +50% Current Compensated Choke, 2A Id";"";
+"TraceParts.InstanceId";"90-07122023-06696136FDR7KA1GQNQOJK3QTZMLD2H";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

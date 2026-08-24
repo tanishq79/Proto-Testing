@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"34-23062017-103198";"";
+"REFERENCE";"SK 638 25";"";
+"TraceParts.PartTitle";"10,3 x 40 mm, SK 638 …";"";
+"TraceParts.InstanceId";"34-23062017-1031988M9BGAD4RQL3XUG8HOWC8QXEN";"";
+"SUPPLIER";"Fischer Elektronik GmbH & Co. KG";"";
+"DESIGN";"Strangkühlkörper für Einrast-Transistorhaltefeder";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartVersion";"1.0.3";"";

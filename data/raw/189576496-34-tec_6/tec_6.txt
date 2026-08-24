@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-04032025-043350";"";
+"REFERENCE";"7909773";"";
+"SUPPLIER_PART_NUMBER";"TEC 6";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TraceParts.PartTitle";"RUD TECDOS cobra fork head hook";"";
+"SUPPLIER_NAME";"RUD";"";
+"DESIGN";"Haken VCGH 6";"";
+"TraceParts.InstanceId";"90-04032025-0433509WNVQCPY2M7W5S6APZT538ADJ";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.4";"";

@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-19012025-062436";"";
+"REFERENCE";"INV-0065";"";
+"TraceParts.PartTitle";"Broadband Pulse Inverter INV-0065";"";
+"TraceParts.InstanceId";"90-19012025-06243678P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"Marki Microwave";"";
+"DESIGN";"Broadband Pulse Inverter";"";
+"Part_Number_ProductPage_URL";"https://markimicrowave.com/products/connectorized/inverters/inv-0065/";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

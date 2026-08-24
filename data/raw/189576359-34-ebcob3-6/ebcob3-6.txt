@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"80-09122021-081237";"";
+"REFERENCE";"EBCOB3-6";"";
+"TraceParts.PartTitle";"Butterfly Bolt EBCOB/EBCBS";"";
+"TraceParts.InstanceId";"80-09122021-0812376A1LWOERUZ9IAA6BD14ADFNAE";"";
+"SUPPLIER";"ZKH Industrial Supply Co., Ltd.";"";
+"DESIGN";"Butterfly Bolt EBCOB3-6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

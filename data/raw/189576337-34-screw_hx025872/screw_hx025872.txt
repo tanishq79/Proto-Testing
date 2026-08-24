@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-21092023-091948";"";
+"REFERENCE";"HX025872";"";
+"PRODUCT_CODE";"Q205710001000050000";"";
+"SIZE";"M10 x 50";"";
+"LENGTH";"50";"mm";
+"TraceParts.PartTitle";"A2 - 304 St/St Coach Screws Hexagon Head DIN 571 - M10";"";
+"SUPPLIER";"Owlett-Jaton";"";
+"DESIGN";"A2 - 304 St/St Coach Screws Hexagon Head DIN 571 - M10 x 50";"";
+"TraceParts.InstanceId";"33-21092023-09194864Y2PCYGNIWEFKMDE0N1D5XOF";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

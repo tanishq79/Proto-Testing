@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-27062023-018543";"";
+"REFERENCE";"01401215";"";
+"TraceParts.PartTitle";"Absolute encoder 01401215";"";
+"TraceParts.InstanceId";"90-27062023-0185432N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Shenzhen Inovance Technology";"";
+"DESIGN";"Absolute encoder 01401215";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

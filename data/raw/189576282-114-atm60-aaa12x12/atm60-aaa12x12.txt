@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-30072013-122104";"";
+"REFERENCE";"ATM60-AAA12X12";"";
+"rs_stock_number";"4929185";"";
+"TraceParts.PartTitle";"Absolute Encoder Sick 8192 ppr 3000rpm SSI-Gray Hollow 10  32 V dc";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/4929185?cm_mmc=en-ds-_-mcad-_-traceparts-_-4929185'";"";
+"SUPPLIER";"Sick";"";
+"DESIGN";"Absolute Encoder Sick 8192 ppr 3000rpm SSI-Gray Hollow 10  32 V dc";"";
+"TraceParts.InstanceId";"10-30072013-1221046RUEBVQEZBJX8DBZZE81UAFND";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.1";"";

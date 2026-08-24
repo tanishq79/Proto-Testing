@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04092019-090162";"";
+"REFERENCE";"FG0H104ZF";"";
+"rs_stock_number";"1734154";"";
+"TraceParts.PartTitle";"KEMET 0.1F Supercapacitor EDLC -20  +80% Tolerance Supercap FG Series 5.5V dc Through Hole";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1734154?cm_mmc=en-ds-_-mcad-_-traceparts-_-1734154'";"";
+"SUPPLIER";"KEMET";"";
+"DESIGN";"KEMET 0.1F Supercapacitor EDLC -20  +80% Tolerance Supercap FG Series 5.5V dc Through Hole";"";
+"TraceParts.InstanceId";"10-04092019-0901629BZ4TXDVRKH4D7EAAUF9KNYZG";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.9";"";

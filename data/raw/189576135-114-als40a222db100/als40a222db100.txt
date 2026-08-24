@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04092019-100515";"";
+"REFERENCE";"ALS40A222DB100";"";
+"rs_stock_number";"3662190";"";
+"TraceParts.PartTitle";"100V 2200UF ALS40";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/3662190?cm_mmc=en-ds-_-mcad-_-traceparts-_-3662190'";"";
+"SUPPLIER";"KEMET";"";
+"DESIGN";"100V 2200UF ALS40";"";
+"TraceParts.InstanceId";"10-04092019-100515EEVDRGJ7BHJ6VT3RH3O4UADXL";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";

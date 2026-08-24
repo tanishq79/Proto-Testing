@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartNumber";"10-03092019-106360";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"KEMET 10nF Polyphenylene Sulphide Film Capacitor PPS 63 V ac, 100 V dc ±5% SMR Through Hole";"";
+"TraceParts.InstanceId";"10-03092019-1063606INRXXH7LV2YP35KGHJJRDPVP";"";
+"TraceParts.PartTitle";"KEMET 10nF Polyphenylene Sulphide Film Capacitor PPS 63 V ac, 100 V dc ±5% SMR Through Hole";"";
+"REFERENCE";"SMR5103J100J01L16.5CBULK";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1719333?cm_mmc=en-ds-_-mcad-_-traceparts-_-1719333'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Part_Number_EShop_URL";"https://uk.rs-online.com/web/p/products/1719333?cm_mmc=en-ds-_-mcad-_-traceparts-_-1719333'";"";
+"rs_stock_number";"1719333";"";

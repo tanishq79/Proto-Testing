@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"80-09122021-082339";"";
+"REFERENCE";"EBNLD3";"";
+"TraceParts.PartTitle";"Anti Loosen Washer EBNLD";"";
+"TraceParts.InstanceId";"80-09122021-082339B5BW4YG4TJRM63LCDTEK1YKL3";"";
+"SUPPLIER";"ZKH Industrial Supply Co., Ltd.";"";
+"DESIGN";"Anti Loosen Washer EBNLD3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

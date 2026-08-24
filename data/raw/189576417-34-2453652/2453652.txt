@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-23112023-049396";"";
+"REFERENCE";"2453652";"";
+"TraceParts.PartTitle";"1/2 X 2 1/2 LAG BOLT GALVANIZED";"";
+"TraceParts.InstanceId";"90-23112023-0493962N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"RS PRO";"";
+"DESIGN";"1/2 X 2 1/2 LAG BOLT GALVANIZED";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

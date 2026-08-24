@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06122023-044204";"";
+"REFERENCE";"7448262510";"";
+"SUPPLIER_PART_NUMBER";"70996524";"";
+"rs_stock_number";"70996524";"";
+"TraceParts.PartTitle";"1000 µH ±30 % Ferrite Leaded Inductor, Max SRF:0.1";"";
+"SUPPLIER_NAME";"RS Americas";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"DESIGN";"1000 µH ±30 % Ferrite Leaded Inductor, Max SRF:0.1";"";
+"TraceParts.InstanceId";"90-06122023-04420436FDR7KA1GQNQOJK3QTZMLD2H";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

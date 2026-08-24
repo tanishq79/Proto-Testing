@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"34-11062019-081545";"";
+"REFERENCE";"VW28-LA95-A-5/5";"";
+"TraceParts.PartTitle";"Aluminum-Connecting shafts VW";"";
+"TraceParts.InstanceId";"34-11062019-081545DX7D9RGVDXTJCHTMXHI2AI3U";"";
+"SUPPLIER";"NOZAG";"";
+"DESIGN";"Aluminum-Connecting shafts VW";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.1";"";

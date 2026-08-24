@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09082013-069519";"";
+"TraceParts.PartVersion";"1.4.9";"";
+"TraceParts.PartTitle";"Mini-excavator";"";
+"TraceParts.InstanceId";"10-09082013-06951966FPJQZA4M7FVCQKBO1O8DR81";"";
+"SUPPLIER";"TraceParts";"";
+"DESIGN";"Mini-excavator, Yellow Color";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.23.00.00";"";

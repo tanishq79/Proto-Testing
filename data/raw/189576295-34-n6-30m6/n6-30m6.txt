@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"27-05584701-945889";"";
+"REFERENCE";"N6-30M6";"";
+"TraceParts.PartTitle";"6 Series-Screw cap N6-30M6";"";
+"TraceParts.InstanceId";"27-05584701-94588936FDR7KA1GQNQOJK3QTZMLD2H";"";
+"SUPPLIER";"AMODULAR";"";
+"DESIGN";"6 Series-Screw cap N6-30M6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

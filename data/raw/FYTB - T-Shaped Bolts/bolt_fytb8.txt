@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-18012019-087227";"";
+"REFERENCE";"FYTB8";"";
+"TraceParts.PartTitle";"FYTB - T-Shaped Bolts";"";
+"TraceParts.InstanceId";"10-18012019-0872277AYQR25ZPQSTG2LIHSGS0LAOX";"";
+"ACCESSORIES";"Hexagun nut";"";
+"TraceParts.PartLanguage";"en";"";
+"SUPPLIER";"Dongguan Forrun Hardware Co., Ltd.";"";
+"DESIGN";"T-Shaped Bolts - FYTB8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"MATERIAL";"SS400";"";
+"TraceParts.PartVersion";"1.0.4";"";

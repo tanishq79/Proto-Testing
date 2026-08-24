@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"27-05639103-016526";"";
+"REFERENCE";"1859782";"";
+"TraceParts.PartTitle";"FIL-3C-1H -20A-480AC";"";
+"TraceParts.InstanceId";"27-05639103-01652636FDR7KA1GQNQOJK3QTZMLD2H";"";
+"SUPPLIER";"PHOENIX CONTACT";"";
+"DESIGN";"EMC filter";"";
+"ATT_0173_1_02_AAO663_005";"4067923518391";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.7";"";

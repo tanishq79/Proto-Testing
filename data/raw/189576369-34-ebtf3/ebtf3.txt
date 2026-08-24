@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"80-09122021-080965";"";
+"REFERENCE";"EBTF3";"";
+"TraceParts.PartTitle";"Cap Nut EBTF";"";
+"TraceParts.InstanceId";"80-09122021-080965AX58FWNL43WHSL5NFKWF4UAIB";"";
+"SUPPLIER";"ZKH Industrial Supply Co., Ltd.";"";
+"DESIGN";"Cap Nut EBTF3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

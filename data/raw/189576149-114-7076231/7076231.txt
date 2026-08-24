@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-22032024-044318";"";
+"REFERENCE";"7076231";"";
+"TraceParts.PartTitle";"AXIAL AL CAP, 0.47UF, 50V";"";
+"TraceParts.InstanceId";"90-22032024-0443182N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"RS PRO";"";
+"DESIGN";"AXIAL AL CAP, 0.47UF, 50V";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

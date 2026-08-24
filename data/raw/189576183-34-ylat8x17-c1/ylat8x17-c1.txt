@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"YLAT8X17-C1";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"YA-VA Intelligent Systems Co., Ltd.";"";
+"TraceParts.PartNumber";"90-20102023-019207";"";
+"AP";"40X40 80X80 40X80";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"T-bolt A YLAT8X17-C1";"";
+"TraceParts.InstanceId";"90-20102023-0192072N3XX9WWY2MK673V115V3T3RA";"";
+"TraceParts.PartTitle";"T-bolt A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"M";"8";"";
+"KG";"0.02";"";
+"CZ";"NPMS";"";

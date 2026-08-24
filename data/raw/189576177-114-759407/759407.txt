@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-07032026-031541";"";
+"REFERENCE";"BLRCH104A125B48";"";
+"rs_stock_number";"759407";"";
+"TraceParts.PartTitle";"CAPACITOR CAN HDY 10.4/12.5KVAR 480V";"";
+"url";"https://uk.rs-online.com/web/p/power-factor-correction-capacitors/0759407/?cm_mmc=aff-_-uk-_-traceparts-_-759407";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Schneider Electric";"";
+"DESIGN";"CAPACITOR CAN HDY 10.4/12.5KVAR 480V";"";
+"TraceParts.InstanceId";"90-07032026-0315412N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

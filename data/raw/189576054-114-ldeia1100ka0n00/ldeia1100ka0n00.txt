@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05092019-121363";"";
+"REFERENCE";"LDEIA1100KA0N00";"";
+"rs_stock_number";"1649563";"";
+"TraceParts.PartTitle";"KEMET 0.001μF PEN Film Capacitor 120 V dc, 250 V dc ±10% Tolerance SMD LDE Series";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1649563?cm_mmc=en-ds-_-mcad-_-traceparts-_-1649563'";"";
+"SUPPLIER";"KEMET";"";
+"DESIGN";"KEMET 0.001μF PEN Film Capacitor 120 V dc, 250 V dc ±10% Tolerance SMD LDE Series";"";
+"TraceParts.InstanceId";"10-05092019-1213632G2S4OQMMIYEJ0ABSOW6SBDYG";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";

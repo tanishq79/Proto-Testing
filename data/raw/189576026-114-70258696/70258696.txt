@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-07122023-062746";"";
+"REFERENCE";"EEH-ZA1E101XP";"";
+"SUPPLIER_PART_NUMBER";"70258696";"";
+"rs_stock_number";"70258696";"";
+"TraceParts.PartTitle";"Hybrid Cap SMT ZA 25V 100uF low ESR";"";
+"SUPPLIER_NAME";"RS Americas";"";
+"SUPPLIER";"Panasonic";"";
+"DESIGN";"Hybrid Cap SMT ZA 25V 100uF low ESR";"";
+"TraceParts.InstanceId";"90-07122023-06274636FDR7KA1GQNQOJK3QTZMLD2H";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

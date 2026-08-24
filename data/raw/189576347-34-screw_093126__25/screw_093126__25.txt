@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-27092023-093149";"";
+"REFERENCE";"093126  25";"";
+"PRODUCT_CODE";"Q209310000600025000";"";
+"SIZE";"M6 x 25";"";
+"LENGTH";"25";"mm";
+"TraceParts.PartTitle";"A2 - 304 St/St Hexagon Bolts DIN 931 - M6";"";
+"SUPPLIER";"Owlett-Jaton";"";
+"DESIGN";"A2 - 304 St/St Hexagon Bolts DIN 931 - M6 x 25";"";
+"TraceParts.InstanceId";"33-27092023-0931498VAUV4PKPRUSDIB2DPSBA5EQG";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

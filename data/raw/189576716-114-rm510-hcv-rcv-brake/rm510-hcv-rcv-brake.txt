@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-15052019-052006";"";
+"REFERENCE";"RM510-HCV-RCV-BRAKE";"";
+"TraceParts.PartTitle";"Piston Motors RM510-HCV-RCV-BRAKE";"";
+"TraceParts.InstanceId";"90-15052019-05200678P2ST6ENTHNY6M228NL8S6AD";"";
+"SUPPLIER";"GLOBE Benelux BV";"";
+"DESIGN";"Piston Motors max. power 19 kW / 26 H.P.";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";

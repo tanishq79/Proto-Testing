@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"787-6-M6-25";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"JW Winco";"";
+"Weight";"0.016 lbs";"";
+"Material";"VS - Heat-treated steel";"";
+"TraceParts.PartNumber";"90-04092020-049501";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Metric Size, Steel T-Slot Bolts";"";
+"TraceParts.InstanceId";"90-04092020-04950178P2ST6ENTHNY6M228NL8S6AD";"";
+"RoHs";"Yes";"";
+"TraceParts.PartTitle";"DIN 787 Metric Size, Steel T-Slot Bolts";"";
+"ECLASS";"23110607";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Zolltarif";"7318158085";"";

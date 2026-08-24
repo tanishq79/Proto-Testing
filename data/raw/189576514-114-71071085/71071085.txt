@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06122023-040937";"";
+"REFERENCE";"7447070";"";
+"SUPPLIER_PART_NUMBER";"71071085";"";
+"rs_stock_number";"71071085";"";
+"TraceParts.PartTitle";"100 µH ±20 % Composite Iron Powder Toroidal Induct";"";
+"SUPPLIER_NAME";"RS Americas";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"DESIGN";"100 µH ±20 % Composite Iron Powder Toroidal Induct";"";
+"TraceParts.InstanceId";"90-06122023-04093736FDR7KA1GQNQOJK3QTZMLD2H";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

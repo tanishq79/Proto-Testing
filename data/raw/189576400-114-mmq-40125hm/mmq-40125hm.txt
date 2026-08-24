@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"Maximum_Operating_Temp_2";"100°C";"";
+"REFERENCE";"MMQ-40125HM";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"Marki Microwave";"";
+"Maximum_Storage_Temp_2";"125°C";"";
+"Minimum_Storage_Temp_2";"-65°C";"";
+"TraceParts.PartNumber";"90-19012025-062456";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"GaAs MMIC Millimeter Wave 4x Multiplier";"";
+"Part_Number_ProductPage_URL";"https://markimicrowave.com/products/connectorized/multipliers/mmq-40125hm/";"";
+"TraceParts.PartTitle";"GaAs MMIC Millimeter Wave 4x Multiplier MMQ-40125HM";"";
+"Minimum_Operating_Temp_2";"-55°C";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.InstanceId";"90-19012025-06245648KDK8Y1Z3GILL7LU5VE9VA80";"";
