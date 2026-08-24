@@ -14,3 +14,4 @@
 - [x] Add an approved non-secret local configuration-template artifact, correct secret exclusions, and security documentation without exposing credential contents.
 - [x] Write macOS/local setup, architecture, ML flow, test, security-rotation, and domain-gap documentation.
 - [x] Validate backend startup, live search with a repository query image, result parity, error handling, desktop rendering, and mobile rendering.
+- [x] Commit the completed Component Atlas prototype and push it to the connected GitHub repository.
