@@ -1,0 +1,42 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "server",
+    "db",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://4Hy6jYUsTA8ZCww.root:N5198s3DycLmpvokI8vN@gateway05.us-east-1.prod.aws.tidbcloud.com:4000/Kpa6AfcxMmTqWpBhBiUhC9?ssl={\"rejectUnauthorized\":true}"
+  },
+  "experiments": [
+    "no_db_push"
+  ],
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/Kpa6AfcxMmTqWpBhBiUhC9.git",
+    "expiration": "2026-08-25T10:56:55.536Z",
+    "token": "art_v2_x_0ef19cf89ee4b904038c87766d6f21c964120dbe?expires=1787655415",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "industrial-hardware-visual-retrieval",
+  "path": "/home/ubuntu/industrial-hardware-visual-retrieval",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "cE9PKAGxYHWbWAhVtpxQ7N",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "bLgfWav6KoQrBAQ2oL7LD9",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Tanishq Jadhav",
+    "OWNER_OPEN_ID": "PmP7qxzpMKaybF7iWygQmh",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "f6166f15-fca7-4b5f-a692-4ba515acbe9c",
+    "VITE_APP_ID": "Kpa6AfcxMmTqWpBhBiUhC9",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Industrial Hardware Visual Retrieval",
+    "VITE_FRONTEND_FORGE_API_KEY": "UVUMDJqecamEoNsqpBD56C",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}

@@ -5,6 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "NODE_ENV=development tsx watch server/_core/index.ts",
+    "inference:dev": "python3 -m backend.scripts.run_api",
+    "inference:test": "python3 -m unittest discover -s backend/tests -v",
     "build": "vite build && esbuild server/_core/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
     "start": "NODE_ENV=production node dist/index.js",
     "check": "tsc --noEmit",

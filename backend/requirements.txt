@@ -1,0 +1,11 @@
+fastapi>=0.141,<0.142
+uvicorn[standard]>=0.52,<0.53
+python-multipart>=0.0.32,<0.1
+pillow>=12.3,<13
+numpy>=2.5,<3
+torch>=2.13,<2.14
+torchvision>=0.28,<0.29
+transformers>=5.15,<5.16
+faiss-cpu>=1.15,<1.16
+# Optional: install rembg plus a supported inference runtime, then set
+# ENABLE_BACKGROUND_REMOVAL=true after validating that model resources fit the target machine.

@@ -1,0 +1,21 @@
+[2026-08-24T10:57:11.856Z] Starting dev server with command: pnpm run dev
+[2026-08-24T10:57:13.875Z] > industrial-hardware-visual-retrieval@1.0.0 dev /home/ubuntu/industrial-hardware-visual-retrieval
+[2026-08-24T10:57:13.875Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-08-24T10:57:15.468Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-08-24T10:57:15.699Z] Server running on http://localhost:3000/
+[2026-08-24T11:10:44.392Z] 11:10:44 AM [tsx] change in ./server/_core/index.ts Restarting...
+[2026-08-24T11:10:46.258Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-08-24T11:10:46.520Z] Server running on http://localhost:3000/
+[2026-08-24T11:20:23.451Z] 11:20:23 AM [vite] (client) page reload index.html
+[2026-08-24T11:20:56.412Z] ELIFECYCLE  Command failed.
+[2026-08-24T11:20:56.481Z] Dev server exited with code -1
+[2026-08-24T11:20:57.524Z] Starting dev server with command: pnpm run dev
+[2026-08-24T11:20:58.418Z] > industrial-hardware-visual-retrieval@1.0.0 dev /home/ubuntu/industrial-hardware-visual-retrieval
+[2026-08-24T11:20:58.418Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-08-24T11:21:00.413Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-08-24T11:21:00.704Z] Server running on http://localhost:3000/
+[2026-08-24T11:21:37.310Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-08-24T11:22:15.193Z] 11:22:15 AM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-08-24T11:22:15.195Z] 11:22:15 AM [vite] (client) hmr update /src/index.css
+[2026-08-24T11:25:01.592Z] 11:25:01 AM [vite] (client) hmr update /src/index.css
+[2026-08-24T11:28:12.181Z] 11:28:12 AM [vite] (client) hmr update /src/index.css

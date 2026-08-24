@@ -1,0 +1,11 @@
+# Component Atlas local FastAPI configuration template.
+# Copy these placeholder values into your own untracked environment mechanism.
+# Do not place OAuth credentials, refresh tokens, API keys, or database secrets here.
+
+RETRIEVAL_MODEL_NAME=facebook/dinov2-small
+RETRIEVAL_DATA_DIR=backend/data
+ENABLE_BACKGROUND_REMOVAL=false
+ENABLE_COLOR_CORRECTION=true
+ENABLE_ENHANCEMENT=true
+MAX_UPLOAD_BYTES=12582912
+INFERENCE_PORT=8001
